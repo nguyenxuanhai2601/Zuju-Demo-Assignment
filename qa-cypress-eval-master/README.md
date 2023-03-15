@@ -20,6 +20,11 @@ https://github.com/nguyenxuanhai2601/Zuju-Demo-Assignment/tree/main/qa-cypress-e
 - Verify the page header
 - Search for a team name `Manchester City`
 
+# Reference list
+1) https://www.cypress.io/
+2) https://github.com/ZUJUGP/qa-cypress-eval
+
+
 
 
 
