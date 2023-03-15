@@ -1,13 +1,10 @@
 # QA Cypress Evaluation
 QA automated testing evaluation project using Cypress.io
 
-### How do I use this repo?
+## Interview-Demo
 
-- Clone a copy of the `/ZUJUGP/qa-cypress-eval.git` repo locally
-- Navigate to the `cypress-eval` folder
-- Run `npm i` command
-- Install Cypress `npm install --save-dev cypress@11.1.0 `
-- Run `npm run cypress` command
+https://github.com/nguyenxuanhai2601/Zuju-Demo-Assignment/tree/main/qa-cypress-eval-master/cypress/e2e
+
 
 ### The First Scenario
 
@@ -18,28 +15,11 @@ QA automated testing evaluation project using Cypress.io
 
 
 # Scenarios to Automate
-- Login
-    - Email `zujutest+automation@gmail.com` 
-    - Password `TestAuto123`    
-- Vist teams page `https://beta-app.zujudigital.com/reputation`
+- Login with provided Email and password
+- Vist teams page Zuju-Reputation
 - Verify the page header
 - Search for a team name `Manchester City`
-- Mark it as a favourite
-- Select the team and verify the team details
-- Continue your adventure 
 
-# More Scenarios to Automate
-
-## Zuju Kickoff Application
-
-- Open the browser
-- Visit https://beta-app.zujudigital.com/#sign-in
-- email `zujutest+automation@gmail.com` 
-- password `TestAuto123`
-
-## Interview-Demo
-
-https://github.com/nguyenxuanhai2601/Zuju-Demo-Assignment/tree/main/qa-cypress-eval-master/cypress/e2e
 
 
 
