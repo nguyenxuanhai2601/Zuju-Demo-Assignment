@@ -37,6 +37,10 @@ QA automated testing evaluation project using Cypress.io
 - email `zujutest+automation@gmail.com` 
 - password `TestAuto123`
 
+## Interview-Demo
+
+https://github.com/nguyenxuanhai2601/Zuju-Demo-Assignment/tree/main/qa-cypress-eval-master/cypress/e2e
+
 
 
 
